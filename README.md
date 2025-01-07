@@ -1,6 +1,6 @@
 <h1>Desafio de Projeto - DIO / Santander - Bootcamp de Cybersegurança 2</h1>
 <hr>
-<h2>Criando um Ransomware com linguagem Python </h2> 
+<h2>Criando um Ransomware com linguagem Python</h2> 
 
 ![Alt text](./imgs/ramsomware_img.jpg)
 
